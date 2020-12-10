@@ -5,5 +5,11 @@ build/
 .vscode
 .editorconfig
 yarn.lock
+yarn-error.log
 .eslintrc.js
 .editorconfig
+.pnp.js
+.yarn/build-state.yml
+.yarn/install-state.gz
+.yarn/cache/
+.yarn/unplugged/

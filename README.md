@@ -19,3 +19,14 @@ yarn webpack-dev-server
 ```
 
 and visit http://localhost:8080
+
+
+
+# for Yarn 2.x
+
+```bash
+yarn set version berry
+```
+all done!
+
+Please see .yarnrc and .yarn/releases/yarn-berry.cjs
