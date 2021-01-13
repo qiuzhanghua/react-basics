@@ -26,6 +26,13 @@ and visit http://localhost:8080
 
 ```bash
 yarn set version berry
+rm yarn.lock
+touch yarn.lock
+
+# and
+yarn 
+yarn webpack
+#etc
 ```
 all done!
 
